@@ -37,6 +37,10 @@ body{
     align-items: center;
     gap: 5px;
 }
+.logo-t{
+    display: flex;
+    flex-direction: column;
+}
 .head-navbar{
     background: #1d1d1d;
     padding: 10px;
